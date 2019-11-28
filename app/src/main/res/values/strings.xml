@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">流浪通報</string>
+    <string name="img_Buttom">選擇檔案</string>
+    <string name="Data_Buttom">詳細資料</string>
+    <string name="Edit_Buttom">編輯</string>
+    <string name="Back_Buttom">回上頁</string>
+    <string name="OK_Buttom">確認</string>
+    <string name="Del_Buttom">刪除</string>
+    <string name="time">發現時間</string>
+    <string name="place">發現地點</string>
+    <string name="feature">寵物特徵</string>
+    <string name="detection">發現人</string>
+    <string name="phone">聯絡電話</string>
+    <string name="explain">詳細說明</string>
+</resources>
